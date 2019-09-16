@@ -1,5 +1,5 @@
 # Hackintosh
-* DELL Latitude 7480
+## DELL Latitude 7480
 * CPU: Intel Core i5-7300U
 * MainBoard: DELL 00F6D3
 * Graphic: Intel HD Graphics 620
